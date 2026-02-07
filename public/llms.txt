@@ -1,0 +1,85 @@
+# ברכת השדה — Generative Engine Optimization Map
+
+> A מזון ומשקאות business.
+
+---
+
+## Pages
+
+### Home
+https://-7647d995.zappy5.app
+
+### About
+https://-7647d995.zappy5.app/about
+
+### Collections
+https://-7647d995.zappy5.app/collections
+
+### Contact
+https://-7647d995.zappy5.app/contact
+
+### Products
+https://-7647d995.zappy5.app/products
+המוצרים שלנו - ברכת השדה
+
+### Cart
+https://-7647d995.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-7647d995.zappy5.app/checkout
+תשלום
+
+### Login
+https://-7647d995.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-7647d995.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-7647d995.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-7647d995.zappy5.app/product/:slug
+פרטי המוצר - ברכת השדה
+
+### Category
+https://-7647d995.zappy5.app/category/:slug
+מוצרים - ברכת השדה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7647d995.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7647d995.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7647d995.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ברכת השדה
+ברכת השדה is a business in the מזון ומשקאות industry.
+
+## Target Audience
+- משפחות מודעות לבריאות
+
+## Industry
+מזון ומשקאות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-7647d995.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-7647d995.zappy5.app/robots.txt
